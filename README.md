@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi! My name is Prathmesh 🗿✌️
+========================================================================================================================================
 
-<!--
-**Prathmesh-04/Prathmesh-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a Full-Stack Developer based in New Delhi, India.
+</br>
+💻  Open to work!
 
-Here are some ideas to get you started:
+### Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css)](https://skillicons.dev)
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/prathmesh-singh-909a36328/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</br>
+<div id="badges">
+  <a href="https://x.com/Prathmesh_S04"  >
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
+  </a>
+</div>
