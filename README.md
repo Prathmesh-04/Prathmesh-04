@@ -22,3 +22,5 @@ Hi! My name is Prathmesh 🗿✌️
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=Prathmesh-04&theme=radical&no-frame=false&no-bg=false&margin-w=4)
