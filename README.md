@@ -9,6 +9,24 @@ Hi! My name is Prathmesh 🗿✌️
 
  [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,html,css)](https://skillicons.dev)
 
+# 📊 GitHub Stats:
+
+<div align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=prathmesh-04&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+
+  <img src="https://streak-stats.demolab.com/?user=prathmesh-04&theme=catppuccin_mocha&hide_border=false" height="180" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prathmesh-04&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+
+</div>
+
 ### Socials
 
 <div id="badges">
